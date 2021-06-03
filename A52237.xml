@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from York and the north containing these particulars following, &amp;c. ...</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52237</idno><idno type="EEBO-CITATION">27705107</idno>
+  <idno type="VID">110185</idno>
+  <idno type="EEBO-PROQUEST">2240892979</idno>
+  
+            <idno type="STC">Wing N1027A</idno>
+            <idno type="STC">ESTC R43480</idno>
+            <idno type="OCLC">27705107</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1730:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from York and the north containing these particulars following, &amp;c. ...</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for Francis Coules,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Iune 7.</note>
+                  <note>Imperfect: cropped and stained, with loss of text.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110185:1"/>
+            <p>NEVVES FROM YORK, And the North, containing these particulars following, &amp;c.
+<list>
+                  <item>1. His Majesties Declaration, and Demands of the Ministers, Free-holders, Farmers, and substantiall Coppy-holders of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Yorke,</hi> at <hi>Heworth Moore,</hi> neare the City of <hi>Yorke</hi> the third of Iune. 1642.</item>
+                  <item>2. A Letter from a Gentleman at <hi>Yorke</hi> to his friend in <hi>London,</hi> relating the number of those that appeared with their resolution.</item>
+                  <item>3. A Catalogue of the names of the Dukes, Marquesses, Earles, and Lords, that have absented themselves from the Parliament, and are now with his Majesty at Yorke.</item>
+                  <item>4. An Order set forth by the Lords, and Commons in Parlia<g ref="char:EOLhyphen"/>ment, concerning the <hi>Militia,</hi> the fourth of Iune.</item>
+                  <item>5. The Coppy of a Letter sent from the Committee at <hi>Lincolne,</hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the House of Commons, directed to the Speaker of the said House, and subscribed with the names of the said Committees.</item>
+               </list>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered to be printed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Hen. Elsing,</hi> Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>decorative illustration</figDesc>
+            </figure>
+            <p>
+               <hi>Printed at</hi> London <hi>for</hi> Francis Coules. <hi>1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:110185:2"/>
+            <pb facs="tcp:110185:2"/>
+            <head>His Maiesties Declaration to the Ministers, Free-holders, Farmers, and substantiall Copy<g ref="char:EOLhyphen"/>holders of ths Cunty of <hi>Yorke.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee would have you to be assured that we never inten<g ref="char:EOLhyphen"/>ded the least neglect unto you in any former summons of the Country, Our love, as well as Our protection, extending to all Our Subjects; But as you are a great Body, time and conveniency must bee observed in your Assembling.</p>
+            <p>That you may know the generall Reasons of Our being here, you must understand, That when Wee found it neither safe nor Honou<g ref="char:EOLhyphen"/>rable to expose Our Person to the tumultuous and licentious pro<g ref="char:EOLhyphen"/>ceedings of many (which to this day are unpunished) who did disorderly approach neere Our Court at <hi>White-hall,</hi> We trusted this part of Our Dominions chiefly to reside in; where, as most of the Gentry already have, so We assure Our selves the rest of you will give Us cleere testomy of your service and obedience, which Wee will never use otherwise then for the defence of the true Orthodox Religion professed and setled in Queene <hi>Elizabeths</hi> time, and con<g ref="char:EOLhyphen"/>firmed by the Authority of the Statutes of this Realme, the defence of the Lawes and fundamentall Constitutions of this Kingdome (as the justest Measure and Rule for Our Prerogative, and your Liber<g ref="char:EOLhyphen"/>ties and Rights) and lastly, for the preservation of the Peace of this Kingdome.</p>
+            <p>As for Our owne Zeale to the Protestant Profession, We referre all the world to Our daily exercise of, and Our Declarations con<g ref="char:EOLhyphen"/>cerning it, and execution of the Lawes against the Papists; so like<g ref="char:EOLhyphen"/>wise We cannot but declare Our selfe most heartily sorry to finde such Separatists, and Schismaticks, who presume, against Law, to
+<pb facs="tcp:110185:3"/> foment new Doctrines and Disciplines to the disturbance of Church and state.</p>
+            <p>For the Law, it being the common inheritance of Our people, we shall never enforce any Prerogative of Ours beyond it, but submit Our selfe to it, and give you and all our Subjects the fullest lati<g ref="char:EOLhyphen"/>tude of it, both for the liberty of your persons, and the propriety of your estates. And for an inviolable confidence and assurance here<g ref="char:EOLhyphen"/>of, as We take God (the searcher of all hearts) to witnesse Our re<g ref="char:EOLhyphen"/>all intention herein, so Wee shall no longer desire you to stand for the defence of Our Person Honour, and just Prerogatives, then We shal maintain the Laws of the Land, the liberty of your persons, and the propriety of your goods.</p>
+            <p>And for the cleare understanding of Our Resolutions to maintain peace, We may have the confidence and happinesse to refer (against all malignity whatsoever) to Our former sixteen years Reigne; (too long to dissemble Our Nature) if in all this time Wee never caused the effusion of one drop of bloud, it must needs be thought; that in Our riper judg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment in Government, Wee should never open such Issues as might drown Vs and Our posterity in them; But Wee are sure to have no enemies, but in the defence of the true Protestant Profession, the right of the established Laws, and for the preservati<g ref="char:EOLhyphen"/>on of peace &amp; certainly al these must be yours, as wel as our enemies.</p>
+            <p>And to the end that this present posture wherein We meet should not affright you, with the distempers of the times, the example of the two Houses having made Vs prepare for a guard to Vs and Our Childrens Persons, We wish you to looke into the Composition &amp; Constitution of it, and you will find it so far from the face or feare of War, that it serves to secure you, as well as Vs, from it; For Our Choice is of the prime Gentry, and of one Regiment of Our Trained Bands, which cannot be thought to oppresse the Countrey (being their own) nor war with themselves. And Wee further assure you, Wee never intended to use Forreighners, or disaffected in Religion: And that You may fully assure Your selves of Our sole dependency upon the love and service of Our own people, to live and dye with them, We have armed these Our Sub<g ref="char:EOLhyphen"/>jects; which had been most irrationalll, if We had ever intended to have used Strangers. And further, you may perceive that Wee re<g ref="char:EOLhyphen"/>ceive none, but such as stand cleare in Loyalty and Religion, for which reason We have caused the Oaths of Allegiance and Supre<g ref="char:EOLhyphen"/>macy
+<pb facs="tcp:110185:3"/> to be given them. Likewise, to prevent any distempers at home, We have, and shall put the Trained Bands of all this Our Kingdome under the command of Persons of Honour, confidence &amp; affection to their Countrcy; straitly charging, upon their Allegiance no Officer to accept any command in them, nor Souldiers to obey any save such as are authorised by Us.</p>
+            <p>And for the prevention of any innovated power over you, you shall have Vs here to governe you, and the Souldiory to protect you in peace, and to relive you against all oppressions; for that as Wee have told you before, must arise from some great violation (which We hope God will prevent) and not from this preparation of Our Subjects. Therefore let none of you be affrighted with vaine feares if such a war should follow, it follows the Authors home to their own doores; and such (by the confidence of Our Person with you) We assure Our selfe you are not.</p>
+            <p>Here We had left you to your fidelity and duty, had not some malicious insolence in Our former meetings sent forth most presum<g ref="char:EOLhyphen"/>tuous Summons, deceiving our people, and presuming upon Our Ro<g ref="char:EOLhyphen"/>yall Authority; and these present themselves as great defenders s, of Religion, peace, and Liberty; Whereas they become infectiou and contagious to the people, seducing them into vaine fancies and delusions, as may appeare by their warrants which Wee could trace to some Pulpits, as we are credibly informed: And you see it were just in Vs, to punish these Authors of sedition, but that it would bee too great a favour, for it would honour them with the Title of Mar<g ref="char:EOLhyphen"/>tyrdome, for Gods cause, as they vainely pretend: But you may now see from whence this Spirit comes, that would make Vs to be in the Act of destruction of Religion, Our Person a disturber of the Peace, and ready to introduce slavery.</p>
+            <p>These here are all the forraigne Forces we have, or ever shall in<g ref="char:EOLhyphen"/>tend to have to act these great designes, notwithstanding the vaine feares hitherto imagined. So that you see it is high time that these fancies were dispersed and driven away, that We might bee repai<g ref="char:EOLhyphen"/>red in Honour and Interrest, and you enjoy the blessing of Peace and Happinesse, the advancement whereof shall bee Our study and comfort: and therefore We shall (when you shall thinke it conve<g ref="char:EOLhyphen"/>nient time) ease you in the number of the Trained Bands. And for your Billet-Money, it had bin long since paid, but that no part of the
+<pb facs="tcp:110185:4"/> Subsidies (which We passed for that purpose) came to Our hands, and We shall not be wanting in any thing that lyeth in Us for the full satisfaction thereof: And shall make Our Grace and bounty to you answerable to your best fidelity and loyalty, as occasion shall be offered to us.</p>
+            <list>
+               <head>A Catalogue of the Names of the Dukes, Marquesses, Earles, and Lords &amp;c.</head>
+               <item>The Lord Keeper.</item>
+               <item>Duke of Richmond.</item>
+               <item>Marquesse of Hartford.</item>
+               <item>Marquesse Hamtlton.</item>
+               <item>Earle of Cumberland.</item>
+               <item>Earle of Bath.</item>
+               <item>Earle of Southampton,</item>
+               <item>Earle of Dorset.</item>
+               <item>Earle of Salsbury.</item>
+               <item>Earle of Northamton.</item>
+               <item>Earle of Devonshire.</item>
+               <item>Earle of Carlile.</item>
+               <item>Earle of Clare.</item>
+               <item>Earle of Westmorland.</item>
+               <item>Earle of Monmouth.</item>
+               <item>Earle of Lindsey.</item>
+               <item>Earle of New-castle.</item>
+               <item>Earle of Dover.</item>
+               <item>Earle of Canarvan.</item>
+               <item>Earle of Newport.</item>
+               <item>Earle of Thanet.</item>
+               <item>Lord Moubray.</item>
+               <item>Lord Strange.</item>
+               <item>Lord Willoughby.</item>
+               <item>Lard Longavill.</item>
+               <item>Lord Rich.</item>
+               <item>Lord Andover.</item>
+               <item>Lord Faulkconbridge.</item>
+               <item>Lord Lovelace.</item>
+               <item>Lord Paulet.</item>
+               <item>Lord Newarke.</item>
+               <item>Lord Coventry.</item>
+               <item>Lord Savill.</item>
+               <item>Lord Dunsmore.</item>
+               <item>Lord Seymor.</item>
+               <item>Lord Capel</item>
+            </list>
+            <div type="letter">
+               <head>The Coppy of a Letter from a Gentleman at <hi>York,</hi> &amp;c.</head>
+               <p>I Received yours of this post, and here I doe returne you answer First the King granting out a Summons to our Country Gentle<g ref="char:EOLhyphen"/>men, Ministers, and Freeholders for to be here: so there did at this day appear 10000. men on Heworth Moore, which declaring them<g ref="char:EOLhyphen"/>selves, that they as long as they could stand with life and heart would see the King righted. And the King declared hid himselfe, as you will see by this inclosed booke. Thus with my love and service to you I rest.</p>
+               <closer>
+                  <signed>Your friend ever. <hi>F. H.</hi>
+                  </signed>
+                  <dateline>York <date>3 Iune, 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:110185:4"/>
+               <head>The Coppie of a Letter sent from the Committee at Lin<g ref="char:EOLhyphen"/>colne, to the House of Commons, directed to the Speaker of the said House, &amp; subscribed with the names of the said Committee.</head>
+               <opener>
+                  <salute>Sir:</salute>
+               </opener>
+               <p>SVch is our earenst desire, to manifest our obedience to the Commands of both Houses, That wee cannot om<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t any op<g ref="char:EOLhyphen"/>portunitie to advertise you of our first dayes proceeding and successe therein. The Lord <hi>Francis Willoughby</hi> appointed by the Ordinance of Parliament, to be Lord Lievtenant of this Countie, had by his Warrant summoned the chiefe Constables to attend him yesterday, rhe last of <hi>May,</hi> in this place, to give him an account concerning the Armes of the Trained Ban s and Ammunition, within their severall Hundreds and Wa<g ref="char:EOLhyphen"/>pentakes; which service accordingly they performed with all readinesse and alacritie, even beyond expectations, there being the fullest appearance of them that we have observed upon any occasion heretofore, so as about fourescore in this great Coun<g ref="char:EOLhyphen"/>tie, not above two or three of them were absent; Neither did the Kings Proclamation (published on purpose, as wee con<g ref="char:EOLhyphen"/>ceive, thorowout the Countie, and which some had officiously fixed upon the gates of the Inne where we met;) nor this en<g ref="char:EOLhyphen"/>closed Letter from His Majestie sent to the old (but as we heare new re-established Deputie Lievtenant, sunder the Earle of <hi>Lindsey,</hi> who likewise hath a Commission under the Broad Seale, for the Lievtenancie, of <hi>Lincolnshire,</hi> as wee are infor<g ref="char:EOLhyphen"/>med, any whit deter, or hinder them. We have already del<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vered forth Warrants to those Head-Constables for Musters to be held (for the more conveniencie) in severall places of this Countie, at each of which (God willing) we all of us intend to be assistant, the rather because wee understand that our pre<g ref="char:EOLhyphen"/>sence here doth not a little comfort and revive the spirit of all honest and well affected persons in this Countie; whose for<g ref="char:EOLhyphen"/>ward good examples will (wee doubt not) be a means to draw the rest to a more ready conformitie. In which hopes we are further encouraged by this dayes triall in the Citie, finding, besides the Trained Bands thereof, a like number of Volun<g ref="char:EOLhyphen"/>teers well and compleatly armed, who are ready to make ten<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:110185:5"/> of their Service, for the defence of his Majesties Person, the Parliament, and the Kingdome, according to their late Protestation. These are our first beginnings in your Service, which we humbly submit unto you, and so remaine</p>
+               <closer>
+                  <dateline>Lincoln, <date>1 Iunii. 1642.</date>
+                  </dateline>
+                  <signed>Your affectionate Friends and Servants,
+<list>
+                        <item>W. Armyne,</item>
+                        <item>Edw. Asscough,</item>
+                        <item>Th. Hatcher,</item>
+                        <item>Christ. Wray,</item>
+                        <item>Anth. Irby,</item>
+                        <item>Ioh. Broxolme.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Ordered by the House of Commons, that this be forthwith printed.</p>
+               </postscript>
+            </div>
+            <div type="Parliamentary_order">
+               <opener>
+                  <dateline>
+                     <date>Die Sabbati 4 Iunii, 1642.</date>
+                  </dateline>
+               </opener>
+               <p>IT is this day ordered by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, That the Deputie-Lievtenants of the severall and re<g ref="char:EOLhyphen"/>spective Counties within the Kingdome of <hi>England</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> that are not Members of the House of Com<g ref="char:EOLhyphen"/>mons, be hereby required and enjoyned to bee present at the dayes and places which are, or shall hereafter be appointed by the Lord-Lievtenants, or their Deputies, for the Training, Mustering, and Exercising of the Inhabitants of the said Coun<g ref="char:EOLhyphen"/>ties, according to the authoritie given unto them by an Ordi<g ref="char:EOLhyphen"/>nance of both Houses of Parliament. And it is further orde<g ref="char:EOLhyphen"/>red, That all Deputy-Lievtenants, as well those that are Mem<g ref="char:EOLhyphen"/>bers of the House of Commons, as others, shall give such dis<g ref="char:EOLhyphen"/>patch, by preparing of Warrants, Commissions, or Letters, and subscribing of the same as the Service shall require; And that such as shall refuse, or neglect so to do, that their Names be certified unto us by their fellow-Deputies, or any one of them that shall or do perform the said Service. And it is further de<g ref="char:EOLhyphen"/>clared, That it is the Intention of both Houses, for the better encouragement of so good a work, so much conducing to the safetie of his Majesties Person and Kingdoms, That some of their Members at the times and places appointed, or to be ap<g ref="char:EOLhyphen"/>pointed for the execution of the said Ordinance, shall be sent down to give their personall attendance upon the said Service.</p>
+               <closer/>
+               <postscript>
+                  <p>Ordered to be printed.</p>
+                  <closer>
+                     <signed>H. Elsing, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110185:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
